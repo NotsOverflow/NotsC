@@ -1,6 +1,6 @@
 /*
 #        ^___^
-# 	     |= =|
+# 	 |= =|
 #   	  |_|          Notsgnik : labruillere@gmail.com
 #     . __|__  .	   mer. 26 févr. 2014 11:18:49 CET  
 #     #_|\ / |_#      	
